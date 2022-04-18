@@ -1,0 +1,11 @@
+﻿  Private.cpp
+C:\Users\hp\source\repos\OOP 3.3A\OOP 3.3A\Private.h(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 3.3A\OOP 3.3A\Private.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Public.cpp
+C:\Users\hp\source\repos\OOP 3.3A\OOP 3.3A\Public.h(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 3.3A\OOP 3.3A\Public.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Source.cpp
+C:\Users\hp\source\repos\OOP 3.3A\OOP 3.3A\Private.h(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 3.3A\OOP 3.3A\Source.cpp(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Создание кода...
+  OOP 3.3A.vcxproj -> C:\Users\hp\source\repos\OOP 3.3A\x64\Debug\OOP 3.3A.exe
